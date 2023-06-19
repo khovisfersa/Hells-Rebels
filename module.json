@@ -1,0 +1,30 @@
+{
+  "id": "hells-rebels",
+  "title": "Hell's rebels",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "khovis",
+      "discord": "khovis",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "label": "Hell's Rebels",
+      "name": "hells-rebels",
+      "type": "Adventure",
+      "system": "pf2e",
+      "path": "packs/hells-rebels",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
